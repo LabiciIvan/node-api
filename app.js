@@ -6,16 +6,6 @@ const PORT = 5000;
 
 app.use(express.json());
 
-// app.get('/', (req, res) => {
-// 	console.log('Request received at / ');
-
-// 	res.status(200).json({message : 'Hello from the node-example'})
-// });
-
-// app.post('/', (req, res) => {
-// 	res.status(200).send('You can post to this url');
-// });
-
 const tours = JSON.parse(fs.readFileSync(`${__dirname}/dev-data/data/tours.json`, 'utf-8'));
 
 app.get('/api/v1/tours', (req, res) => {
