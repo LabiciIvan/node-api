@@ -1,0 +1,50 @@
+[
+	{
+		"id": 1,
+		"price": 345,
+		"duration": 4,
+		"difficulty": "easy",
+		"ratingsAverage": 4.7,
+		"maxGroupSize": 10,
+		"name": "Snowscape Expeditions",
+		"summary": "Unforgettable winter journeys through snow-covered wonderlands",
+		"description": "Experience the magic of winter with exhilarating expeditions. Navigate snowy landscapes, conquer slopes, and embrace the serene beauty of snow-covered scenes in heartwarming adventures",
+		"startDates": [
+			"2024-08-05,10:00",
+			"2025-03-20,10:00",
+			"2026-08-12,10:00"
+		]
+	},
+	{
+		"id": 2,
+		"price": 277,
+		"duration": 4,
+		"difficulty": "medium",
+		"ratingsAverage": 3.8,
+		"maxGroupSize": 25,
+		"name": "Tropical Thrills",
+		"summary": "Exciting adventures under the sun with a tropical twist",
+		"description": "Embark on thrilling escapades in exotic locales, from vibrant jungles to turquoise waters. Explore diverse landscapes, indulge in water sports, and soak in the tropical vibe",
+		"startDates": [
+			"2024-08-05,10:00",
+			"2025-03-20,10:00",
+			"2026-08-12,10:00"
+		]
+	},
+	{
+		"id": 3,
+		"price": 180,
+		"duration": 4,
+		"difficulty": "easy",
+		"ratingsAverage": 4.1,
+		"maxGroupSize": 20,
+		"name": "Springtime Serenity Strolls",
+		"summary": "Tranquil walks through blossoming landscapes, a symphony of nature",
+		"description": "Immerse yourself in the beauty of springtime as you stroll through blooming gardens, relishing the delicate scents, vibrant colors, and rejuvenating tranquility of the season",
+		"startDates": [
+			"2024-08-05,10:00",
+			"2025-03-20,10:00",
+			"2026-08-12,10:00"
+		]
+	}
+]
